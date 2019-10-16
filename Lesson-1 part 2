@@ -1,0 +1,16 @@
+<!DocType html>
+<html>
+    <head> 
+	    <title>
+		     Ben's Website
+		</title>
+	</head>
+	<body>
+	     <NAV>
+		     <p>
+		         <b>welcome to my website
+				 </b>
+	         </p>
+	     </NAV>
+	</body>
+</html>
